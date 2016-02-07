@@ -1,0 +1,53 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2013,201301,January 2013,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,94000,,113524,,,0
+HS,2013,201302,February 2013,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,78000,,36846,,,0
+HS,2013,201303,March 2013,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,39000,,17992,,,0
+HS,2013,201304,April 2013,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,38998,,17587,,,0
+HS,2013,201305,May 2013,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,98500,,235381,,,0
+HS,2013,201306,June 2013,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,80000,,416219,,,0
+HS,2013,201307,July 2013,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,80000,,401037,,,0
+HS,2013,201308,August 2013,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,79000,,228180,,,0
+HS,2013,201309,September 2013,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,138497,,447471,,,0
+HS,2013,201310,October 2013,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,119000,,450287,,,0
+HS,2013,201302,February 2013,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,50,,387,,,0
+HS,2013,201303,March 2013,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,642,,3963,,,0
+HS,2013,201304,April 2013,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,106,,659,,,0
+HS,2013,201305,May 2013,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,148,,1031,,,0
+HS,2013,201310,October 2013,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,18,,127,,,0
+HS,2013,201311,November 2013,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,53,,414,,,0
+HS,2013,201312,December 2013,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,35,,277,,,0
+HS,2013,201301,January 2013,6,1,1,Imports,97,EU-27,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,,,146,,,0
+HS,2013,201302,February 2013,6,1,1,Imports,97,EU-27,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,,,80,,,0
+HS,2013,201310,October 2013,6,1,1,Imports,97,EU-27,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,25500,,142337,,,0
+HS,2013,201301,January 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,1853,,6400,,,0
+HS,2013,201302,February 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,27384,,112000,,,0
+HS,2013,201303,March 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,28869,,111900,,,0
+HS,2013,201304,April 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,15133,,65600,,,0
+HS,2013,201305,May 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,55105,,252500,,,0
+HS,2013,201306,June 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,6186,,18100,,,0
+HS,2013,201307,July 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,44488,,246000,,,0
+HS,2013,201308,August 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,9329,,24800,,,0
+HS,2013,201309,September 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,11705,,29400,,,0
+HS,2013,201310,October 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,28151,,152700,,,0
+HS,2013,201311,November 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,20893,,86400,,,0
+HS,2013,201312,December 2013,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,24151,,110100,,,0
+HS,2013,201302,February 2013,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,1,,6,,,0
+HS,2013,201303,March 2013,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,540,,3114,,,0
+HS,2013,201305,May 2013,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,270,,1610,,,0
+HS,2013,201307,July 2013,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,198,,1874,,,0
+HS,2013,201308,August 2013,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,583,,3727,,,0
+HS,2013,201309,September 2013,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,1744,,10471,,,0
+HS,2013,201311,November 2013,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,7460,,45635,,,0
+HS,2013,201312,December 2013,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,1,,17,,,0
+HS,2013,201301,January 2013,6,1,1,Imports,276,Germany,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,,,146,,,0
+HS,2013,201302,February 2013,6,1,1,Imports,276,Germany,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,,,80,,,0
+HS,2013,201310,October 2013,6,1,1,Imports,440,Lithuania,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,25511,,142242,,,0
+HS,2013,201301,January 2013,6,1,1,Imports,643,Russian Federation,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,20000,,89632,,,0
+HS,2013,201302,February 2013,6,1,1,Imports,643,Russian Federation,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,80300,,344190,,,0
+HS,2013,201303,March 2013,6,1,1,Imports,643,Russian Federation,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,18920,,80814,,,0
+HS,2013,201305,May 2013,6,1,1,Imports,643,Russian Federation,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,2800,,13557,,,0
+HS,2013,201309,September 2013,6,1,1,Imports,643,Russian Federation,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,5000,,28768,,,0
+HS,2013,201310,October 2013,6,1,1,Imports,643,Russian Federation,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,40000,,274875,,,0
+HS,2013,201311,November 2013,6,1,1,Imports,643,Russian Federation,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,60000,,399016,,,0
+HS,2013,201312,December 2013,6,1,1,Imports,643,Russian Federation,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,3176,,21259,,,0
+HS,2013,201301,January 2013,6,1,1,Imports,804,Ukraine,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,7040,,44497,,,0

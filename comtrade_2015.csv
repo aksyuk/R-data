@@ -1,0 +1,18 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2015,201502,February 2015,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,266,,1616,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,5504,,21015,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,40907,,70400,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,23260,,55600,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,29408,,67700,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,4515,,8500,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,2615,,4900,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,4551,,8200,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,24473,,58300,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,24530,,55200,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,9760,,30000,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,21030,,77900,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,794,,3895,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,1000,,5120,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,432,,2233,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,594,,2511,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,20,,52,,,0

@@ -1,0 +1,42 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2012,201205,May 2012,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,25,,151,,,0
+HS,2012,201206,June 2012,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,5945,,35674,,,0
+HS,2012,201210,October 2012,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,35,,210,,,0
+HS,2012,201211,November 2012,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,22,,198,,,0
+HS,2012,201208,August 2012,6,1,1,Imports,97,EU-27,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,400,,2381,,,0
+HS,2012,201201,January 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,1473,,5100,,,0
+HS,2012,201202,February 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,30751,,137900,,,0
+HS,2012,201203,March 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,2472,,6900,,,0
+HS,2012,201204,April 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,41770,,161700,,,0
+HS,2012,201205,May 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,83031,,268600,,,0
+HS,2012,201206,June 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,60211,,200400,,,0
+HS,2012,201207,July 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,64733,,203500,,,0
+HS,2012,201208,August 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,26882,,85300,,,0
+HS,2012,201209,September 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,26447,,102600,,,0
+HS,2012,201210,October 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,8234,,26600,,,0
+HS,2012,201211,November 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,22338,,73400,,,0
+HS,2012,201212,December 2012,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,32997,,129300,,,0
+HS,2012,201208,August 2012,6,1,1,Imports,233,Estonia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,400,,2381,,,0
+HS,2012,201209,September 2012,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,162,,941,,,0
+HS,2012,201210,October 2012,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,2048,,11815,,,0
+HS,2012,201211,November 2012,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,270,,1562,,,0
+HS,2012,201212,December 2012,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,275,,1643,,,0
+HS,2012,201201,January 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,78400,,238470,,,0
+HS,2012,201202,February 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,136700,,461430,,,0
+HS,2012,201203,March 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,177000,,550860,,,0
+HS,2012,201204,April 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,74100,,277890,,,0
+HS,2012,201205,May 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,59400,,191690,,,0
+HS,2012,201206,June 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,78500,,207720,,,0
+HS,2012,201207,July 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,53100,,171590,,,0
+HS,2012,201208,August 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,113700,,346490,,,0
+HS,2012,201209,September 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,142500,,417280,,,0
+HS,2012,201210,October 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,77100,,361070,,,0
+HS,2012,201211,November 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,223700,,673350,,,0
+HS,2012,201212,December 2012,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,156400,,615090,,,0
+HS,2012,201201,January 2012,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,19600,,31771,,,0
+HS,2012,201202,February 2012,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,19600,,31771,,,0
+HS,2012,201206,June 2012,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,19600,,31771,,,0
+HS,2012,201212,December 2012,6,1,1,Imports,804,Ukraine,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,9376,,60557,,,0
+HS,2012,201203,March 2012,6,1,1,Imports,842,United States of America,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,1040,,6376,,,0
+HS,2012,201205,May 2012,6,1,1,Imports,842,United States of America,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,1740,,9975,,,0
+HS,2012,201207,July 2012,6,1,1,Imports,842,United States of America,,643,Russian Federation,,,,,,,,,040510,Butter,0,,,,,,320,,2798,,,0
