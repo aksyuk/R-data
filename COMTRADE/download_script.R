@@ -25,7 +25,7 @@ write.csv(reporters, 'reporters.csv', row.names = F)
 source("https://raw.githubusercontent.com/aksyuk/R-data/master/API/comtrade_API.R")
 
 # загрузка данных и сохранение файлов в цикле
-for (i in 2011:2017) {
+for (i in 2010:2010) {
     Sys.sleep(5)
     s1 <- get.Comtrade(r = 'all', p = "643", ps = as.character(i), freq="M",
                        rg = '1', cc = '040510',
@@ -86,3 +86,4 @@ DT <- DT[, !col.remove, with = F]
 
 # Запишем объединённую очищенную таблицу в один файл
 write.csv(DT, '040510-Imp-RF-comtrade.csv', row.names = F)
+
