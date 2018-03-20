@@ -35,4 +35,4 @@ tbl[grep(description, pattern = 'Эта группировка.*$'),
                           regexpr('Эта группировка.*$', description) - 1)]
 
 # записываем csv
-write.csv(tbl, 'okpd2.csv', row.names = F)
+write.csv(tbl, 'okpd2.csv', row.names = F, fileEncoding = 'UTF-8')
