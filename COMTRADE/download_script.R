@@ -8,12 +8,18 @@ library('jsonlite')            # чтение формата JSON
 library('data.table')          # работа с объектами 'data.table'
 library('dplyr')               # функции для выборок из таблиц
 
+# Глобальные переменные ========================================================
+
+# первый и последний год
+frstYear <- 2010
+lastYear <- 2018
+
 # Загрузка данных с помощью API ================================================
 
 # адрес справочника по странам UN COMTRADE
 fileURL <- "http://comtrade.un.org/data/cache/partnerAreas.json"
 # загружаем данные из формата JSON
-reporters <- fromJSON(fileURL) ### ОШИБКА ПОД LINUX
+reporters <- fromJSON(file = fileURL) ### ОШИБКА ПОД LINUX
 # соединяем элементы списка построчно
 reporters <- sapply(reporters$results, rbind)
 # превращаем во фрейм
@@ -25,7 +31,7 @@ write.csv(reporters, 'reporters.csv', row.names = F)
 source("https://raw.githubusercontent.com/aksyuk/R-data/master/API/comtrade_API.R")
 
 # загрузка данных и сохранение файлов в цикле
-for (i in 2010:2010) {
+for (i in frstYear:lastYear) {
     Sys.sleep(5)
     s1 <- get.Comtrade(r = 'all', p = "643", ps = as.character(i), freq="M",
                        rg = '1', cc = '040510',
@@ -47,7 +53,7 @@ for (i in 2010:2010) {
 # читаем всё в одну таблицу
 # флаг: является ли этот файл первым?
 flag.is.first <- T
-for (i in 2010:2017) {
+for (i in frstYear:lastYear) {
     # собираем имя файла
     file.name <- paste('comtrade_', i, '.csv', sep = '')
     # читаем данные во фрейм
