@@ -16,9 +16,9 @@
 "HS",2013,201310,"October 2013",6,1,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,18,NA,127,NA,NA,0
 "HS",2013,201311,"November 2013",6,1,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,53,NA,414,NA,NA,0
 "HS",2013,201312,"December 2013",6,1,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,35,NA,277,NA,NA,0
-"HS",2013,201301,"January 2013",6,1,1,"Imports",97,"EU-27",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,NA,NA,146,NA,NA,0
-"HS",2013,201302,"February 2013",6,1,1,"Imports",97,"EU-27",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,NA,NA,80,NA,NA,0
-"HS",2013,201310,"October 2013",6,1,1,"Imports",97,"EU-27",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,25500,NA,142337,NA,NA,0
+"HS",2013,201301,"January 2013",6,1,1,"Imports",97,"EU-27",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,9,NA,141,NA,NA,0
+"HS",2013,201302,"February 2013",6,1,1,"Imports",97,"EU-27",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,10,NA,73,NA,NA,0
+"HS",2013,201310,"October 2013",6,1,1,"Imports",97,"EU-27",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,25511,NA,142326,NA,NA,0
 "HS",2013,201301,"January 2013",6,1,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,1853,NA,6400,NA,NA,0
 "HS",2013,201302,"February 2013",6,1,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,27384,NA,112000,NA,NA,0
 "HS",2013,201303,"March 2013",6,1,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,28869,NA,111900,NA,NA,0
@@ -41,6 +41,15 @@
 "HS",2013,201312,"December 2013",6,1,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,1,NA,17,NA,NA,0
 "HS",2013,201301,"January 2013",6,1,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,NA,NA,146,NA,NA,0
 "HS",2013,201302,"February 2013",6,1,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,NA,NA,80,NA,NA,0
+"HS",2013,201303,"March 2013",6,1,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,19600,NA,34922,NA,NA,0
+"HS",2013,201304,"April 2013",6,1,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,19600,NA,34922,NA,NA,0
+"HS",2013,201305,"May 2013",6,1,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,19600,NA,34922,NA,NA,0
+"HS",2013,201306,"June 2013",6,1,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,19600,NA,34922,NA,NA,0
+"HS",2013,201307,"July 2013",6,1,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,19600,NA,34922,NA,NA,0
+"HS",2013,201309,"September 2013",6,1,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,19600,NA,34922,NA,NA,0
+"HS",2013,201310,"October 2013",6,1,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,19600,NA,34922,NA,NA,0
+"HS",2013,201311,"November 2013",6,1,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,19600,NA,34922,NA,NA,0
+"HS",2013,201312,"December 2013",6,1,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,19600,NA,34922,NA,NA,0
 "HS",2013,201310,"October 2013",6,1,1,"Imports",440,"Lithuania",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,25511,NA,142242,NA,NA,0
 "HS",2013,201301,"January 2013",6,1,1,"Imports",643,"Russian Federation",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,20000,NA,89632,NA,NA,0
 "HS",2013,201302,"February 2013",6,1,1,"Imports",643,"Russian Federation",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,40510,"Dairy produce; derived from milk, butter",0,NA,NA,NA,NA,NA,80300,NA,344190,NA,NA,0

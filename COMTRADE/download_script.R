@@ -4,7 +4,7 @@
 # Установить кодировку в RStudio: Tools -> Global Options -> General, 
 #  Default text encoding: UTF-8
 
-library('jsonlite')            # чтение формата JSON
+library('RJSONIO')             # чтение формата JSON
 library('data.table')          # работа с объектами 'data.table'
 library('dplyr')               # функции для выборок из таблиц
 
@@ -19,13 +19,16 @@ lastYear <- 2018
 # адрес справочника по странам UN COMTRADE
 fileURL <- "http://comtrade.un.org/data/cache/partnerAreas.json"
 # загружаем данные из формата JSON
-reporters <- fromJSON(file = fileURL) ### ОШИБКА ПОД LINUX
+download.file(fileURL, 'tmp_data.json')
+reporters <- RJSONIO::fromJSON('tmp_data.json')
 # соединяем элементы списка построчно
-reporters <- sapply(reporters$results, rbind)
+reporters <- t(sapply(reporters$results, rbind))
 # превращаем во фрейм
 reporters <- as.data.frame(reporters)
 names(reporters) <- c('State.Code', 'State.Name.En')
 write.csv(reporters, 'reporters.csv', row.names = F)
+# удаляем временный файл .json
+file.remove('tmp_data.json')
 
 # функция, реализующая API (источник: UN COMTRADE)
 source("https://raw.githubusercontent.com/aksyuk/R-data/master/API/comtrade_API.R")
@@ -33,9 +36,9 @@ source("https://raw.githubusercontent.com/aksyuk/R-data/master/API/comtrade_API.
 # загрузка данных и сохранение файлов в цикле
 for (i in frstYear:lastYear) {
     Sys.sleep(5)
-    s1 <- get.Comtrade(r = 'all', p = "643", ps = as.character(i), freq="M",
+    s1 <- get.Comtrade(r = 'all', p = "643", ps = as.character(i), freq = "M",
                        rg = '1', cc = '040510',
-                       fmt="csv")
+                       fmt = "csv")
     file.name <- paste('comtrade_', i, '.csv', sep = '')
     write.csv(s1$data, file.name, row.names = F)
     # вывести сообщение в консоль
@@ -45,6 +48,7 @@ for (i in frstYear:lastYear) {
                 'загружен', Sys.time()), 
           file = 'download.log', append = T)
 }
+
 
 # Очистка и трансформация данных -----------------------------------------------
 

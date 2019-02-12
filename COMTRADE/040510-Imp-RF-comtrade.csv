@@ -1,8 +1,8 @@
 "Classification","Year","Period","Period.Desc","Aggregate.Level","Is.Leaf.Code","Trade.Flow.Code","Trade.Flow","Reporter.Code","Reporter","Partner.Code","Partner","Commodity.Code","Commodity","Qty.Unit.Code","Netweight.kg","Trade.Value.USD","Flag"
 "HS",2010,201008,"August 2010",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,200,1170,0
-"HS",2010,201001,"January 2010",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,NA,71,0
-"HS",2010,201002,"February 2010",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,100,506,0
-"HS",2010,201007,"July 2010",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,38400,201551,0
+"HS",2010,201001,"January 2010",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,12,68,0
+"HS",2010,201002,"February 2010",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,120,502,0
+"HS",2010,201007,"July 2010",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,57600,302318,0
 "HS",2010,201007,"July 2010",6,1,1,"Imports",246,"Finland",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,38400,201551,0
 "HS",2010,201009,"September 2010",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,10000,55926,0
 "HS",2010,201001,"January 2010",6,1,1,"Imports",276,"Germany",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,NA,71,0
@@ -12,8 +12,8 @@
 "HS",2011,201110,"October 2011",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,4190,23740,0
 "HS",2011,201111,"November 2011",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,240,1440,0
 "HS",2011,201112,"December 2011",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3942,23652,0
-"HS",2011,201103,"March 2011",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,200,644,0
-"HS",2011,201107,"July 2011",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,20000,62762,0
+"HS",2011,201103,"March 2011",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,155,648,0
+"HS",2011,201107,"July 2011",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,20000,62704,0
 "HS",2011,201101,"January 2011",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,4540,19000,0
 "HS",2011,201102,"February 2011",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,2220,4500,0
 "HS",2011,201103,"March 2011",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,8140,17300,0
@@ -29,6 +29,9 @@
 "HS",2011,201103,"March 2011",6,1,1,"Imports",276,"Germany",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,200,644,0
 "HS",2011,201101,"January 2011",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3496,17824,0
 "HS",2011,201102,"February 2011",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,31647,0
+"HS",2011,201105,"May 2011",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,23096,49471,0
+"HS",2011,201107,"July 2011",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,23096,49471,0
+"HS",2011,201108,"August 2011",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,23096,49471,0
 "HS",2011,201109,"September 2011",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,35007,0
 "HS",2011,201111,"November 2011",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,11500,19456,0
 "HS",2011,201101,"January 2011",6,1,1,"Imports",842,"United States of America",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,NA,3161,0
@@ -37,7 +40,7 @@
 "HS",2012,201206,"June 2012",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,5945,35674,0
 "HS",2012,201210,"October 2012",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,35,210,0
 "HS",2012,201211,"November 2012",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,22,198,0
-"HS",2012,201208,"August 2012",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,400,2381,0
+"HS",2012,201208,"August 2012",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,384,2381,0
 "HS",2012,201201,"January 2012",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1473,5100,0
 "HS",2012,201202,"February 2012",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,30751,137900,0
 "HS",2012,201203,"March 2012",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,2472,6900,0
@@ -71,6 +74,9 @@
 "HS",2012,201202,"February 2012",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,31771,0
 "HS",2012,201203,"March 2012",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,31771,0
 "HS",2012,201206,"June 2012",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,31771,0
+"HS",2012,201209,"September 2012",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,39200,64067,0
+"HS",2012,201210,"October 2012",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,39200,64067,0
+"HS",2012,201212,"December 2012",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,58800,99622,0
 "HS",2012,201212,"December 2012",6,1,1,"Imports",804,"Ukraine",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,9376,60557,0
 "HS",2012,201203,"March 2012",6,1,1,"Imports",842,"United States of America",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1040,6376,0
 "HS",2012,201205,"May 2012",6,1,1,"Imports",842,"United States of America",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1740,9975,0
@@ -92,9 +98,9 @@
 "HS",2013,201310,"October 2013",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,18,127,0
 "HS",2013,201311,"November 2013",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,53,414,0
 "HS",2013,201312,"December 2013",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,35,277,0
-"HS",2013,201301,"January 2013",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,NA,146,0
-"HS",2013,201302,"February 2013",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,NA,80,0
-"HS",2013,201310,"October 2013",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,25500,142337,0
+"HS",2013,201301,"January 2013",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,9,141,0
+"HS",2013,201302,"February 2013",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,10,73,0
+"HS",2013,201310,"October 2013",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,25511,142326,0
 "HS",2013,201301,"January 2013",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1853,6400,0
 "HS",2013,201302,"February 2013",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,27384,112000,0
 "HS",2013,201303,"March 2013",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,28869,111900,0
@@ -117,6 +123,15 @@
 "HS",2013,201312,"December 2013",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1,17,0
 "HS",2013,201301,"January 2013",6,1,1,"Imports",276,"Germany",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,NA,146,0
 "HS",2013,201302,"February 2013",6,1,1,"Imports",276,"Germany",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,NA,80,0
+"HS",2013,201303,"March 2013",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,34922,0
+"HS",2013,201304,"April 2013",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,34922,0
+"HS",2013,201305,"May 2013",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,34922,0
+"HS",2013,201306,"June 2013",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,34922,0
+"HS",2013,201307,"July 2013",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,34922,0
+"HS",2013,201309,"September 2013",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,34922,0
+"HS",2013,201310,"October 2013",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,34922,0
+"HS",2013,201311,"November 2013",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,34922,0
+"HS",2013,201312,"December 2013",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,19600,34922,0
 "HS",2013,201310,"October 2013",6,1,1,"Imports",440,"Lithuania",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,25511,142242,0
 "HS",2013,201301,"January 2013",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,20000,89632,0
 "HS",2013,201302,"February 2013",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,80300,344190,0
@@ -128,8 +143,8 @@
 "HS",2013,201312,"December 2013",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3176,21259,0
 "HS",2013,201301,"January 2013",6,1,1,"Imports",804,"Ukraine",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,7040,44497,0
 "HS",2014,201411,"November 2014",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,189,1135,0
-"HS",2014,201401,"January 2014",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,NA,95,0
-"HS",2014,201408,"August 2014",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,200,1438,0
+"HS",2014,201401,"January 2014",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,13,93,0
+"HS",2014,201408,"August 2014",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,210,1438,0
 "HS",2014,201401,"January 2014",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,31229,160000,0
 "HS",2014,201402,"February 2014",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,17293,51600,0
 "HS",2014,201403,"March 2014",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,46222,253300,0
@@ -232,6 +247,18 @@
 "HS",2016,201612,"December 2016",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,10667,45500,0
 "HS",2016,201603,"March 2016",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,48,188,0
 "HS",2016,201605,"May 2016",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,955,4207,0
+"HS",2016,201601,"January 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,82983,210889,0
+"HS",2016,201602,"February 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,129384,263467,0
+"HS",2016,201603,"March 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,92940,183305,0
+"HS",2016,201604,"April 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,77354,175038,0
+"HS",2016,201605,"May 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,55321,181004,0
+"HS",2016,201606,"June 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,129364,259989,0
+"HS",2016,201607,"July 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,42985,134403,0
+"HS",2016,201608,"August 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,63950,155935,0
+"HS",2016,201609,"September 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,62266,191906,0
+"HS",2016,201610,"October 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,91043,302482,0
+"HS",2016,201611,"November 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,72566,222172,0
+"HS",2016,201612,"December 2016",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,100585,296548,0
 "HS",2016,201601,"January 2016",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,20000,53704,0
 "HS",2016,201602,"February 2016",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,120000,311312,0
 "HS",2016,201603,"March 2016",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,60000,178867,0
@@ -254,19 +281,137 @@
 "HS",2017,201705,"May 2017",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,130,3783,0
 "HS",2017,201706,"June 2017",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,86,3066,0
 "HS",2017,201707,"July 2017",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,97,6209,0
+"HS",2017,201708,"August 2017",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,108,6791,0
+"HS",2017,201709,"September 2017",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,89,959,0
+"HS",2017,201710,"October 2017",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,67,1171,0
+"HS",2017,201711,"November 2017",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,54,28992,0
+"HS",2017,201712,"December 2017",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,56,9200,0
 "HS",2017,201702,"February 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,4650,10665,0
 "HS",2017,201703,"March 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3364,6210,0
 "HS",2017,201704,"April 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,12849,21052,0
-"HS",2017,201705,"May 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1570,4367,0
-"HS",2017,201706,"June 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,218,2085,0
+"HS",2017,201705,"May 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,4575,8489,0
+"HS",2017,201706,"June 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3011,5955,0
 "HS",2017,201707,"July 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,6625,12453,0
 "HS",2017,201708,"August 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3029,5022,0
 "HS",2017,201709,"September 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,11444,22032,0
-"HS",2017,201701,"January 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,6895,29000,0
+"HS",2017,201710,"October 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,8757,27151,0
+"HS",2017,201711,"November 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,15831,33411,0
+"HS",2017,201712,"December 2017",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,30725,74608,0
+"HS",2017,201707,"July 2017",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,69,306,0
+"HS",2017,201709,"September 2017",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,0,1,0
+"HS",2017,201710,"October 2017",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,13,60,0
+"HS",2017,201701,"January 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,6899,29000,0
 "HS",2017,201702,"February 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,955,3000,0
 "HS",2017,201703,"March 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,5459,22100,0
 "HS",2017,201704,"April 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,319,900,0
+"HS",2017,201705,"May 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,45305,229400,0
 "HS",2017,201706,"June 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,5924,24000,0
 "HS",2017,201707,"July 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,5178,20000,0
 "HS",2017,201708,"August 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3434,14400,0
-"HS",2017,201702,"February 2017",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,54800,22119,0
+"HS",2017,201709,"September 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,22963,123400,0
+"HS",2017,201710,"October 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,276,1400,0
+"HS",2017,201711,"November 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,485,1600,0
+"HS",2017,201712,"December 2017",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,12206,51100,0
+"HS",2017,201709,"September 2017",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,4,33,0
+"HS",2017,201710,"October 2017",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,512,3852,0
+"HS",2017,201711,"November 2017",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1058,8153,0
+"HS",2017,201712,"December 2017",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,292,2274,0
+"HS",2017,201701,"January 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,89281,288029,0
+"HS",2017,201702,"February 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,48036,162120,0
+"HS",2017,201703,"March 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,76955,172085,0
+"HS",2017,201704,"April 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,71850,412771,0
+"HS",2017,201705,"May 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,46762,154002,0
+"HS",2017,201706,"June 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,102390,365952,0
+"HS",2017,201707,"July 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,71588,185458,0
+"HS",2017,201708,"August 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,53172,178032,0
+"HS",2017,201709,"September 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,45714,194802,0
+"HS",2017,201710,"October 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,85763,317768,0
+"HS",2017,201711,"November 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,63339,259783,0
+"HS",2017,201712,"December 2017",6,1,1,"Imports",398,"Kazakhstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,364311,818617,0
+"HS",2017,201702,"February 2017",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,5480,22119,0
+"HS",2017,201701,"January 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,138,403,0
+"HS",2017,201702,"February 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1254,4443,0
+"HS",2017,201703,"March 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1764,2624,0
+"HS",2017,201704,"April 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,7930,17594,0
+"HS",2017,201705,"May 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,10210,14467,0
+"HS",2017,201706,"June 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,4826,9672,0
+"HS",2017,201707,"July 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,5024,11470,0
+"HS",2017,201708,"August 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,420,1425,0
+"HS",2017,201709,"September 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,6533,13836,0
+"HS",2017,201710,"October 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,8489,17911,0
+"HS",2017,201711,"November 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1307,2876,0
+"HS",2017,201712,"December 2017",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,7204,14544,0
+"HS",2017,201701,"January 2017",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,431,2811,0
+"HS",2017,201702,"February 2017",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,20000,128077,0
+"HS",2017,201703,"March 2017",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,662,4210,0
+"HS",2017,201704,"April 2017",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,40202,219986,0
+"HS",2017,201705,"May 2017",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,20263,98766,0
+"HS",2017,201706,"June 2017",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,30353,149693,0
+"HS",2017,201707,"July 2017",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,20000,105400,0
+"HS",2017,201710,"October 2017",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,20000,114600,0
+"HS",2017,201711,"November 2017",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,108,751,0
+"HS",2017,201712,"December 2017",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,144,1001,0
+"HS",2017,201711,"November 2017",6,1,1,"Imports",784,"United Arab Emirates",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,371,1778,0
+"HS",2017,201712,"December 2017",6,1,1,"Imports",842,"United States of America",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1254,6326,0
+"HS",2018,201801,"January 2018",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,26,7924,0
+"HS",2018,201802,"February 2018",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,NA,2606,0
+"HS",2018,201803,"March 2018",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,NA,4037,0
+"HS",2018,201804,"April 2018",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,76,31378,0
+"HS",2018,201805,"May 2018",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,2,189,0
+"HS",2018,201807,"July 2018",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,76,2309,0
+"HS",2018,201808,"August 2018",6,1,1,"Imports",31,"Azerbaijan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,80,12236,0
+"HS",2018,201801,"January 2018",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3372,5509,0
+"HS",2018,201802,"February 2018",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,15301,49222,0
+"HS",2018,201803,"March 2018",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,29320,127164,0
+"HS",2018,201804,"April 2018",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,18182,83009,0
+"HS",2018,201805,"May 2018",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,29181,128897,0
+"HS",2018,201806,"June 2018",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,15450,64413,0
+"HS",2018,201807,"July 2018",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,17865,53141,0
+"HS",2018,201808,"August 2018",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,2078,5847,0
+"HS",2018,201809,"September 2018",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3086,10262,0
+"HS",2018,201810,"October 2018",6,1,1,"Imports",51,"Armenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,15024,54292,0
+"HS",2018,201801,"January 2018",6,1,1,"Imports",97,"EU-27",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,37,176,0
+"HS",2018,201801,"January 2018",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,295,1400,0
+"HS",2018,201802,"February 2018",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1273,6500,0
+"HS",2018,201803,"March 2018",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,720,2800,0
+"HS",2018,201804,"April 2018",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1002,4200,0
+"HS",2018,201805,"May 2018",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,10818,41300,0
+"HS",2018,201806,"June 2018",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1119,4800,0
+"HS",2018,201807,"July 2018",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,658,2900,0
+"HS",2018,201808,"August 2018",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1362,4300,0
+"HS",2018,201809,"September 2018",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1465,4400,0
+"HS",2018,201810,"October 2018",6,1,1,"Imports",112,"Belarus",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1577,4900,0
+"HS",2018,201801,"January 2018",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,519,3443,0
+"HS",2018,201802,"February 2018",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,497,3350,0
+"HS",2018,201803,"March 2018",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,972,6518,0
+"HS",2018,201804,"April 2018",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,130,790,0
+"HS",2018,201805,"May 2018",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,151,869,0
+"HS",2018,201806,"June 2018",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,367,2063,0
+"HS",2018,201807,"July 2018",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,238,1485,0
+"HS",2018,201808,"August 2018",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,216,1348,0
+"HS",2018,201809,"September 2018",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,518,3203,0
+"HS",2018,201810,"October 2018",6,1,1,"Imports",268,"Georgia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,674,3731,0
+"HS",2018,201802,"February 2018",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,752,5577,0
+"HS",2018,201803,"March 2018",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,554,4022,0
+"HS",2018,201805,"May 2018",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,2297,15895,0
+"HS",2018,201806,"June 2018",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3128,15130,0
+"HS",2018,201807,"July 2018",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,2455,9370,0
+"HS",2018,201808,"August 2018",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,3247,11835,0
+"HS",2018,201809,"September 2018",6,1,1,"Imports",417,"Kyrgyzstan",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1465,5087,0
+"HS",2018,201801,"January 2018",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,397,1260,0
+"HS",2018,201802,"February 2018",6,1,1,"Imports",496,"Mongolia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,7747,14490,0
+"HS",2018,201801,"January 2018",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,40122,216056,0
+"HS",2018,201802,"February 2018",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,18,131,0
+"HS",2018,201803,"March 2018",6,1,1,"Imports",643,"Russian Federation",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,20194,109269,0
+"HS",2018,201802,"February 2018",6,1,1,"Imports",705,"Slovenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,5,48,0
+"HS",2018,201805,"May 2018",6,1,1,"Imports",705,"Slovenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,2,24,0
+"HS",2018,201806,"June 2018",6,1,1,"Imports",705,"Slovenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,2,25,0
+"HS",2018,201807,"July 2018",6,1,1,"Imports",705,"Slovenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,2,25,0
+"HS",2018,201808,"August 2018",6,1,1,"Imports",705,"Slovenia",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,2,18,0
+"HS",2018,201806,"June 2018",6,1,1,"Imports",818,"Egypt",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,44209,223057,0
+"HS",2018,201803,"March 2018",6,1,1,"Imports",842,"United States of America",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1440,12166,0
+"HS",2018,201804,"April 2018",6,1,1,"Imports",842,"United States of America",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,1085,10944,0
+"HS",2018,201805,"May 2018",6,1,1,"Imports",842,"United States of America",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,852,6936,0
+"HS",2018,201808,"August 2018",6,1,1,"Imports",842,"United States of America",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,414,3962,0
+"HS",2018,201809,"September 2018",6,1,1,"Imports",842,"United States of America",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,436,4228,0
+"HS",2018,201810,"October 2018",6,1,1,"Imports",842,"United States of America",643,"Russian Federation",40510,"Dairy produce; derived from milk, butter",0,634,6228,0
