@@ -1,0 +1,93 @@
+country_name;ISO2;ISO3;UN_M49
+Algeria;DZ;DZA;12
+Argentina;AR;ARG;32
+Armenia;AM;ARM;51
+Australia;AU;AUS;36
+Austria;AT;AUT;40
+Bahamas;BS;BHS;44
+Bangladesh;BD;BGD;50
+Belarus;BY;BLR;112
+Belgium;BE;BEL;56
+Benin;BJ;BEN;204
+Bolivia;BO;BOL;68
+Botswana;BW;BWA;72
+Brazil;BR;BRA;76
+Brunei Darussalam;BN;BRN;96
+Bulgaria;BG;BGR;100
+Cameroon;CM;CMR;120
+Canada;CA;CAN;124
+Chile;CL;CHL;152
+China;CN;CHN;156
+Hong Kong, SAR China;HK;HKG;344
+Macao, SAR China;MO;MAC;446
+Congo (Brazzaville);CG;COG;178
+Costa Rica;CR;CRI;188
+Cyprus;CY;CYP;196
+Czech Republic;CZ;CZE;203
+Denmark;DK;DNK;208
+Dominican Republic;DO;DOM;214
+Ecuador;EC;ECU;218
+Egypt;EG;EGY;818
+El Salvador;SV;SLV;222
+Equatorial Guinea;GQ;GNQ;226
+Finland;FI;FIN;246
+France;FR;FRA;250
+Gabon;GA;GAB;266
+Gambia;GM;GMB;270
+Germany;DE;DEU;276
+Greece;GR;GRC;300
+Guatemala;GT;GTM;320
+Honduras;HN;HND;340
+Iceland;IS;ISL;352
+India;IN;IND;356
+Indonesia;ID;IDN;360
+Iran, Islamic Republic of;IR;IRN;364
+Ireland;IE;IRL;372
+Israel;IL;ISR;376
+Italy;IT;ITA;380
+Japan;JP;JPN;392
+Kenya;KE;KEN;404
+Korea (South);KR;KOR;410
+Kyrgyzstan;KG;KGZ;417
+Lesotho;LS;LSO;426
+Luxembourg;LU;LUX;442
+Macedonia, Republic of;MK;MKD;807
+Madagascar;MG;MDG;450
+Malaysia;MY;MYS;458
+Mali;ML;MLI;466
+Mauritius;MU;MUS;480
+Mexico;MX;MEX;484
+Morocco;MA;MAR;504
+Mozambique;MZ;MOZ;508
+Netherlands;NL;NLD;528
+New Zealand;NZ;NZL;554
+Norway;NO;NOR;578
+Pakistan;PK;PAK;586
+Panama;PA;PAN;591
+Peru;PE;PER;604
+Philippines;PH;PHL;608
+Poland;PL;POL;616
+Portugal;PT;PRT;620
+Romania;RO;ROU;642
+Russian Federation;RU;RUS;643
+Rwanda;RW;RWA;646
+Senegal;SN;SEN;686
+Sierra Leone;SL;SLE;694
+Singapore;SG;SGP;702
+South Africa;ZA;ZAF;710
+Spain;ES;ESP;724
+Sri Lanka;LK;LKA;144
+Sudan;SD;SDN;736
+Swaziland;SZ;SWZ;748
+Sweden;SE;SWE;752
+Switzerland;CH;CHE;756
+Tanzania, United Republic of;TZ;TZA;834
+Thailand;TH;THA;764
+Togo;TG;TGO;768
+Turkey;TR;TUR;792
+Uganda;UG;UGA;800
+Ukraine;UA;UKR;804
+United Kingdom;GB;GBR;826
+United States of America;US;USA;840
+Uruguay;UY;URY;858
+Uzbekistan;UZ;UZB;860
