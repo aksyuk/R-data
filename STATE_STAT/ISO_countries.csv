@@ -1,248 +1,248 @@
-ISO2;country_name;ISO3;UN_M49
-NA;Namibia;NAM;516
-AD;Andorra;AND;20
-AE;United Arab Emirates;ARE;784
-AF;Afghanistan;AFG;4
-AG;Antigua and Barbuda;ATG;28
-AI;Anguilla;AIA;660
-AL;Albania;ALB;8
-AM;Armenia;ARM;51
-AN;Netherlands Antilles;ANT;530
-AO;Angola;AGO;24
-AQ;Antarctica;ATA;10
-AR;Argentina;ARG;32
-AS;American Samoa;ASM;16
-AT;Austria;AUT;40
-AU;Australia;AUS;36
-AW;Aruba;ABW;533
-AX;Aland Islands;ALA;248
-AZ;Azerbaijan;AZE;31
-BA;Bosnia and Herzegovina;BIH;70
-BB;Barbados;BRB;52
-BD;Bangladesh;BGD;50
-BE;Belgium;BEL;56
-BF;Burkina Faso;BFA;854
-BG;Bulgaria;BGR;100
-BH;Bahrain;BHR;48
-BI;Burundi;BDI;108
-BJ;Benin;BEN;204
-BL;Saint-Barth?lemy;BLM;652
-BM;Bermuda;BMU;60
-BN;Brunei Darussalam;BRN;96
-BO;Bolivia;BOL;68
-BR;Brazil;BRA;76
-BS;Bahamas, The;BHS;44
-BT;Bhutan;BTN;64
-BV;Bouvet Island;BVT;74
-BW;Botswana;BWA;72
-BY;Belarus;BLR;112
-BZ;Belize;BLZ;84
-CA;Canada;CAN;124
-CC;Cocos (Keeling) Islands;CCK;166
-CD;Congo, Dem. Rep.;COD;180
-CF;Central African Republic;CAF;140
-CG;Congo, Rep.;COG;178
-CH;Switzerland;CHE;756
-CI;Cote d'Ivoire;CIV;384
-CK;Cook Islands ;COK;184
-CL;Chile;CHL;152
-CM;Cameroon;CMR;120
-CN;China;CHN;156
-CO;Colombia;COL;170
-CR;Costa Rica;CRI;188
-CU;Cuba;CUB;192
-CV;Cabo Verde;CPV;132
-CX;Christmas Island;CXR;162
-CY;Cyprus;CYP;196
-CZ;Czech Republic;CZE;203
-DE;Germany;DEU;276
-DJ;Djibouti;DJI;262
-DK;Denmark;DNK;208
-DM;Dominica;DMA;212
-DO;Dominican Republic;DOM;214
-DZ;Algeria;DZA;12
-EC;Ecuador;ECU;218
-EE;Estonia;EST;233
-EG;Egypt, Arab Rep.;EGY;818
-EH;Western Sahara;ESH;732
-ER;Eritrea;ERI;232
-ES;Spain;ESP;724
-ET;Ethiopia;ETH;231
-FI;Finland;FIN;246
-FJ;Fiji;FJI;242
-FK;Falkland Islands (Malvinas) ;FLK;238
-FM;Micronesia, Fed. Sts.;FSM;583
-FO;Faroe Islands;FRO;234
-FR;France;FRA;250
-GA;Gabon;GAB;266
-GB;United Kingdom;GBR;826
-GD;Grenada;GRD;308
-GE;Georgia;GEO;268
-GF;French Guiana;GUF;254
-GG;Guernsey;GGY;831
-GH;Ghana;GHA;288
-GI;Gibraltar;GIB;292
-GL;Greenland;GRL;304
-GM;Gambia, The;GMB;270
-GN;Guinea;GIN;324
-GP;Guadeloupe;GLP;312
-GQ;Equatorial Guinea;GNQ;226
-GR;Greece;GRC;300
-GS;South Georgia and the South Sandwich Islands;SGS;239
-GT;Guatemala;GTM;320
-GU;Guam;GUM;316
-GW;Guinea-Bissau;GNB;624
-GY;Guyana;GUY;328
-HK;Hong Kong SAR, China;HKG;344
-HM;Heard and Mcdonald Islands;HMD;334
-HN;Honduras;HND;340
-HR;Croatia;HRV;191
-HT;Haiti;HTI;332
-HU;Hungary;HUN;348
-ID;Indonesia;IDN;360
-IE;Ireland;IRL;372
-IL;Israel;ISR;376
-IM;Isle of Man;IMN;833
-IN;India;IND;356
-IO;British Indian Ocean Territory;IOT;86
-IQ;Iraq;IRQ;368
-IR;Iran, Islamic Rep.;IRN;364
-IS;Iceland;ISL;352
-IT;Italy;ITA;380
-JE;Jersey;JEY;832
-JM;Jamaica;JAM;388
-JO;Jordan;JOR;400
-JP;Japan;JPN;392
-KE;Kenya;KEN;404
-KG;Kyrgyz Republic;KGZ;417
-KH;Cambodia;KHM;116
-KI;Kiribati;KIR;296
-KM;Comoros;COM;174
-KN;St. Kitts and Nevis;KNA;659
-KP;Korea, Dem. People’s Rep.;PRK;408
-KR;Korea, Rep.;KOR;410
-KW;Kuwait;KWT;414
-KY;Cayman Islands;CYM;136
-KZ;Kazakhstan;KAZ;398
-LA;Lao PDR;LAO;418
-LB;Lebanon;LBN;422
-LC;St. Lucia;LCA;662
-LI;Liechtenstein;LIE;438
-LK;Sri Lanka;LKA;144
-LR;Liberia;LBR;430
-LS;Lesotho;LSO;426
-LT;Lithuania;LTU;440
-LU;Luxembourg;LUX;442
-LV;Latvia;LVA;428
-LY;Libya;LBY;434
-MA;Morocco;MAR;504
-MC;Monaco;MCO;492
-MD;Moldova;MDA;498
-ME;Montenegro;MNE;499
-MF;St. Martin (French part);MAF;663
-MG;Madagascar;MDG;450
-MH;Marshall Islands;MHL;584
-MK;North Macedonia;MKD;807
-ML;Mali;MLI;466
-MM;Myanmar;MMR;104
-MN;Mongolia;MNG;496
-MO;Macao SAR, China;MAC;446
-MP;Northern Mariana Islands;MNP;580
-MQ;Martinique;MTQ;474
-MR;Mauritania;MRT;478
-MS;Montserrat;MSR;500
-MT;Malta;MLT;470
-MU;Mauritius;MUS;480
-MV;Maldives;MDV;462
-MW;Malawi;MWI;454
-MX;Mexico;MEX;484
-MY;Malaysia;MYS;458
-MZ;Mozambique;MOZ;508
-NC;New Caledonia;NCL;540
-NE;Niger;NER;562
-NF;Norfolk Island;NFK;574
-NG;Nigeria;NGA;566
-NI;Nicaragua;NIC;558
-NL;Netherlands;NLD;528
-NO;Norway;NOR;578
-NP;Nepal;NPL;524
-NR;Nauru;NRU;520
-NU;Niue ;NIU;570
-NZ;New Zealand;NZL;554
-OM;Oman;OMN;512
-PA;Panama;PAN;591
-PE;Peru;PER;604
-PF;French Polynesia;PYF;258
-PG;Papua New Guinea;PNG;598
-PH;Philippines;PHL;608
-PK;Pakistan;PAK;586
-PL;Poland;POL;616
-PM;Saint Pierre and Miquelon ;SPM;666
-PN;Pitcairn;PCN;612
-PR;Puerto Rico;PRI;630
-PS;West Bank and Gaza;PSE;275
-PT;Portugal;PRT;620
-PW;Palau;PLW;585
-PY;Paraguay;PRY;600
-QA;Qatar;QAT;634
-RE;R?union;REU;638
-RO;Romania;ROU;642
-RS;Serbia;SRB;688
-RU;Russian Federation;RUS;643
-RW;Rwanda;RWA;646
-SA;Saudi Arabia;SAU;682
-SB;Solomon Islands;SLB;90
-SC;Seychelles;SYC;690
-SD;Sudan;SDN;736
-SE;Sweden;SWE;752
-SG;Singapore;SGP;702
-SH;Saint Helena;SHN;654
-SI;Slovenia;SVN;705
-SJ;Svalbard and Jan Mayen Islands ;SJM;744
-SK;Slovak Republic;SVK;703
-SL;Sierra Leone;SLE;694
-SM;San Marino;SMR;674
-SN;Senegal;SEN;686
-SO;Somalia;SOM;706
-SR;Suriname;SUR;740
-SS;South Sudan;SSD;728
-ST;Sao Tome and Principe;STP;678
-SV;El Salvador;SLV;222
-SY;Syrian Arab Republic;SYR;760
-SZ;Eswatini;SWZ;748
-TC;Turks and Caicos Islands;TCA;796
-TD;Chad;TCD;148
-TF;French Southern Territories;ATF;260
-TG;Togo;TGO;768
-TH;Thailand;THA;764
-TJ;Tajikistan;TJK;762
-TK;Tokelau ;TKL;772
-TL;Timor-Leste;TLS;626
-TM;Turkmenistan;TKM;795
-TN;Tunisia;TUN;788
-TO;Tonga;TON;776
-TR;Turkey;TUR;792
-TT;Trinidad and Tobago;TTO;780
-TV;Tuvalu;TUV;798
-TW;Taiwan, Republic of China;TWN;158
-TZ;Tanzania;TZA;834
-UA;Ukraine;UKR;804
-UG;Uganda;UGA;800
-UM;US Minor Outlying Islands;UMI;581
-US;United States;USA;840
-UY;Uruguay;URY;858
-UZ;Uzbekistan;UZB;860
-VA;Holy See (Vatican City State);VAT;336
-VC;St. Vincent and the Grenadines;VCT;670
-VE;Venezuela, RB;VEN;862
-VG;British Virgin Islands;VGB;92
-VI;Virgin Islands (U.S.);VIR;850
-VN;Vietnam;VNM;704
-VU;Vanuatu;VUT;548
-WF;Wallis and Futuna Islands ;WLF;876
-WS;Samoa;WSM;882
-YE;Yemen, Rep.;YEM;887
-YT;Mayotte;MYT;175
-ZA;South Africa;ZAF;710
-ZM;Zambia;ZMB;894
-ZW;Zimbabwe;ZWE;716
+ISO2;country_name;ISO3;UN_M49;Region_WB
+NA;Namibia;NAM;516;Sub-Saharan Africa
+AD;Andorra;AND;20;Europe & Central Asia
+AE;United Arab Emirates;ARE;784;Middle East & North Africa
+AF;Afghanistan;AFG;4;South Asia
+AG;Antigua and Barbuda;ATG;28;Latin America & Caribbean
+AI;Anguilla;AIA;660;NA
+AL;Albania;ALB;8;Europe & Central Asia
+AM;Armenia;ARM;51;Europe & Central Asia
+AN;Netherlands Antilles;ANT;530;NA
+AO;Angola;AGO;24;Sub-Saharan Africa
+AQ;Antarctica;ATA;10;NA
+AR;Argentina;ARG;32;Latin America & Caribbean
+AS;American Samoa;ASM;16;East Asia & Pacific
+AT;Austria;AUT;40;Europe & Central Asia
+AU;Australia;AUS;36;East Asia & Pacific
+AW;Aruba;ABW;533;Latin America & Caribbean
+AX;Aland Islands;ALA;248;NA
+AZ;Azerbaijan;AZE;31;Europe & Central Asia
+BA;Bosnia and Herzegovina;BIH;70;Europe & Central Asia
+BB;Barbados;BRB;52;Latin America & Caribbean
+BD;Bangladesh;BGD;50;South Asia
+BE;Belgium;BEL;56;Europe & Central Asia
+BF;Burkina Faso;BFA;854;Sub-Saharan Africa
+BG;Bulgaria;BGR;100;Europe & Central Asia
+BH;Bahrain;BHR;48;Middle East & North Africa
+BI;Burundi;BDI;108;Sub-Saharan Africa
+BJ;Benin;BEN;204;Sub-Saharan Africa
+BL;Saint-Barth?lemy;BLM;652;NA
+BM;Bermuda;BMU;60;North America
+BN;Brunei Darussalam;BRN;96;East Asia & Pacific
+BO;Bolivia;BOL;68;Latin America & Caribbean
+BR;Brazil;BRA;76;Latin America & Caribbean
+BS;Bahamas, The;BHS;44;Latin America & Caribbean
+BT;Bhutan;BTN;64;South Asia
+BV;Bouvet Island;BVT;74;NA
+BW;Botswana;BWA;72;Sub-Saharan Africa
+BY;Belarus;BLR;112;Europe & Central Asia
+BZ;Belize;BLZ;84;Latin America & Caribbean
+CA;Canada;CAN;124;North America
+CC;Cocos (Keeling) Islands;CCK;166;NA
+CD;Congo, Dem. Rep.;COD;180;Sub-Saharan Africa
+CF;Central African Republic;CAF;140;Sub-Saharan Africa
+CG;Congo, Rep.;COG;178;Sub-Saharan Africa
+CH;Switzerland;CHE;756;Europe & Central Asia
+CI;Cote d'Ivoire;CIV;384;Sub-Saharan Africa
+CK;Cook Islands ;COK;184;NA
+CL;Chile;CHL;152;Latin America & Caribbean
+CM;Cameroon;CMR;120;Sub-Saharan Africa
+CN;China;CHN;156;East Asia & Pacific
+CO;Colombia;COL;170;Latin America & Caribbean
+CR;Costa Rica;CRI;188;Latin America & Caribbean
+CU;Cuba;CUB;192;Latin America & Caribbean
+CV;Cabo Verde;CPV;132;Sub-Saharan Africa
+CX;Christmas Island;CXR;162;NA
+CY;Cyprus;CYP;196;Europe & Central Asia
+CZ;Czech Republic;CZE;203;Europe & Central Asia
+DE;Germany;DEU;276;Europe & Central Asia
+DJ;Djibouti;DJI;262;Middle East & North Africa
+DK;Denmark;DNK;208;Europe & Central Asia
+DM;Dominica;DMA;212;Latin America & Caribbean
+DO;Dominican Republic;DOM;214;Latin America & Caribbean
+DZ;Algeria;DZA;12;Middle East & North Africa
+EC;Ecuador;ECU;218;Latin America & Caribbean
+EE;Estonia;EST;233;Europe & Central Asia
+EG;Egypt, Arab Rep.;EGY;818;Middle East & North Africa
+EH;Western Sahara;ESH;732;NA
+ER;Eritrea;ERI;232;Sub-Saharan Africa
+ES;Spain;ESP;724;Europe & Central Asia
+ET;Ethiopia;ETH;231;Sub-Saharan Africa
+FI;Finland;FIN;246;Europe & Central Asia
+FJ;Fiji;FJI;242;East Asia & Pacific
+FK;Falkland Islands (Malvinas) ;FLK;238;NA
+FM;Micronesia, Fed. Sts.;FSM;583;East Asia & Pacific
+FO;Faroe Islands;FRO;234;Europe & Central Asia
+FR;France;FRA;250;Europe & Central Asia
+GA;Gabon;GAB;266;Sub-Saharan Africa
+GB;United Kingdom;GBR;826;Europe & Central Asia
+GD;Grenada;GRD;308;Latin America & Caribbean
+GE;Georgia;GEO;268;Europe & Central Asia
+GF;French Guiana;GUF;254;NA
+GG;Guernsey;GGY;831;NA
+GH;Ghana;GHA;288;Sub-Saharan Africa
+GI;Gibraltar;GIB;292;Europe & Central Asia
+GL;Greenland;GRL;304;Europe & Central Asia
+GM;Gambia, The;GMB;270;Sub-Saharan Africa
+GN;Guinea;GIN;324;Sub-Saharan Africa
+GP;Guadeloupe;GLP;312;NA
+GQ;Equatorial Guinea;GNQ;226;Sub-Saharan Africa
+GR;Greece;GRC;300;Europe & Central Asia
+GS;South Georgia and the South Sandwich Islands;SGS;239;NA
+GT;Guatemala;GTM;320;Latin America & Caribbean
+GU;Guam;GUM;316;East Asia & Pacific
+GW;Guinea-Bissau;GNB;624;Sub-Saharan Africa
+GY;Guyana;GUY;328;Latin America & Caribbean
+HK;Hong Kong SAR, China;HKG;344;East Asia & Pacific
+HM;Heard and Mcdonald Islands;HMD;334;NA
+HN;Honduras;HND;340;Latin America & Caribbean
+HR;Croatia;HRV;191;Europe & Central Asia
+HT;Haiti;HTI;332;Latin America & Caribbean
+HU;Hungary;HUN;348;Europe & Central Asia
+ID;Indonesia;IDN;360;East Asia & Pacific
+IE;Ireland;IRL;372;Europe & Central Asia
+IL;Israel;ISR;376;Middle East & North Africa
+IM;Isle of Man;IMN;833;Europe & Central Asia
+IN;India;IND;356;South Asia
+IO;British Indian Ocean Territory;IOT;86;NA
+IQ;Iraq;IRQ;368;Middle East & North Africa
+IR;Iran, Islamic Rep.;IRN;364;Middle East & North Africa
+IS;Iceland;ISL;352;Europe & Central Asia
+IT;Italy;ITA;380;Europe & Central Asia
+JE;Jersey;JEY;832;NA
+JM;Jamaica;JAM;388;Latin America & Caribbean
+JO;Jordan;JOR;400;Middle East & North Africa
+JP;Japan;JPN;392;East Asia & Pacific
+KE;Kenya;KEN;404;Sub-Saharan Africa
+KG;Kyrgyz Republic;KGZ;417;Europe & Central Asia
+KH;Cambodia;KHM;116;East Asia & Pacific
+KI;Kiribati;KIR;296;East Asia & Pacific
+KM;Comoros;COM;174;Sub-Saharan Africa
+KN;St. Kitts and Nevis;KNA;659;Latin America & Caribbean
+KP;Korea, Dem. People’s Rep.;PRK;408;East Asia & Pacific
+KR;Korea, Rep.;KOR;410;East Asia & Pacific
+KW;Kuwait;KWT;414;Middle East & North Africa
+KY;Cayman Islands;CYM;136;Latin America & Caribbean
+KZ;Kazakhstan;KAZ;398;Europe & Central Asia
+LA;Lao PDR;LAO;418;East Asia & Pacific
+LB;Lebanon;LBN;422;Middle East & North Africa
+LC;St. Lucia;LCA;662;Latin America & Caribbean
+LI;Liechtenstein;LIE;438;Europe & Central Asia
+LK;Sri Lanka;LKA;144;South Asia
+LR;Liberia;LBR;430;Sub-Saharan Africa
+LS;Lesotho;LSO;426;Sub-Saharan Africa
+LT;Lithuania;LTU;440;Europe & Central Asia
+LU;Luxembourg;LUX;442;Europe & Central Asia
+LV;Latvia;LVA;428;Europe & Central Asia
+LY;Libya;LBY;434;Middle East & North Africa
+MA;Morocco;MAR;504;Middle East & North Africa
+MC;Monaco;MCO;492;Europe & Central Asia
+MD;Moldova;MDA;498;Europe & Central Asia
+ME;Montenegro;MNE;499;Europe & Central Asia
+MF;St. Martin (French part);MAF;663;Latin America & Caribbean
+MG;Madagascar;MDG;450;Sub-Saharan Africa
+MH;Marshall Islands;MHL;584;East Asia & Pacific
+MK;North Macedonia;MKD;807;Europe & Central Asia
+ML;Mali;MLI;466;Sub-Saharan Africa
+MM;Myanmar;MMR;104;East Asia & Pacific
+MN;Mongolia;MNG;496;East Asia & Pacific
+MO;Macao SAR, China;MAC;446;East Asia & Pacific
+MP;Northern Mariana Islands;MNP;580;East Asia & Pacific
+MQ;Martinique;MTQ;474;NA
+MR;Mauritania;MRT;478;Sub-Saharan Africa
+MS;Montserrat;MSR;500;NA
+MT;Malta;MLT;470;Middle East & North Africa
+MU;Mauritius;MUS;480;Sub-Saharan Africa
+MV;Maldives;MDV;462;South Asia
+MW;Malawi;MWI;454;Sub-Saharan Africa
+MX;Mexico;MEX;484;Latin America & Caribbean
+MY;Malaysia;MYS;458;East Asia & Pacific
+MZ;Mozambique;MOZ;508;Sub-Saharan Africa
+NC;New Caledonia;NCL;540;East Asia & Pacific
+NE;Niger;NER;562;Sub-Saharan Africa
+NF;Norfolk Island;NFK;574;NA
+NG;Nigeria;NGA;566;Sub-Saharan Africa
+NI;Nicaragua;NIC;558;Latin America & Caribbean
+NL;Netherlands;NLD;528;Europe & Central Asia
+NO;Norway;NOR;578;Europe & Central Asia
+NP;Nepal;NPL;524;South Asia
+NR;Nauru;NRU;520;East Asia & Pacific
+NU;Niue ;NIU;570;NA
+NZ;New Zealand;NZL;554;East Asia & Pacific
+OM;Oman;OMN;512;Middle East & North Africa
+PA;Panama;PAN;591;Latin America & Caribbean
+PE;Peru;PER;604;Latin America & Caribbean
+PF;French Polynesia;PYF;258;East Asia & Pacific
+PG;Papua New Guinea;PNG;598;East Asia & Pacific
+PH;Philippines;PHL;608;East Asia & Pacific
+PK;Pakistan;PAK;586;South Asia
+PL;Poland;POL;616;Europe & Central Asia
+PM;Saint Pierre and Miquelon ;SPM;666;NA
+PN;Pitcairn;PCN;612;NA
+PR;Puerto Rico;PRI;630;Latin America & Caribbean
+PS;West Bank and Gaza;PSE;275;Middle East & North Africa
+PT;Portugal;PRT;620;Europe & Central Asia
+PW;Palau;PLW;585;East Asia & Pacific
+PY;Paraguay;PRY;600;Latin America & Caribbean
+QA;Qatar;QAT;634;Middle East & North Africa
+RE;R?union;REU;638;NA
+RO;Romania;ROU;642;Europe & Central Asia
+RS;Serbia;SRB;688;Europe & Central Asia
+RU;Russian Federation;RUS;643;Europe & Central Asia
+RW;Rwanda;RWA;646;Sub-Saharan Africa
+SA;Saudi Arabia;SAU;682;Middle East & North Africa
+SB;Solomon Islands;SLB;90;East Asia & Pacific
+SC;Seychelles;SYC;690;Sub-Saharan Africa
+SD;Sudan;SDN;736;Sub-Saharan Africa
+SE;Sweden;SWE;752;Europe & Central Asia
+SG;Singapore;SGP;702;East Asia & Pacific
+SH;Saint Helena;SHN;654;NA
+SI;Slovenia;SVN;705;Europe & Central Asia
+SJ;Svalbard and Jan Mayen Islands ;SJM;744;NA
+SK;Slovak Republic;SVK;703;Europe & Central Asia
+SL;Sierra Leone;SLE;694;Sub-Saharan Africa
+SM;San Marino;SMR;674;Europe & Central Asia
+SN;Senegal;SEN;686;Sub-Saharan Africa
+SO;Somalia;SOM;706;Sub-Saharan Africa
+SR;Suriname;SUR;740;Latin America & Caribbean
+SS;South Sudan;SSD;728;Sub-Saharan Africa
+ST;Sao Tome and Principe;STP;678;Sub-Saharan Africa
+SV;El Salvador;SLV;222;Latin America & Caribbean
+SY;Syrian Arab Republic;SYR;760;Middle East & North Africa
+SZ;Eswatini;SWZ;748;Sub-Saharan Africa
+TC;Turks and Caicos Islands;TCA;796;Latin America & Caribbean
+TD;Chad;TCD;148;Sub-Saharan Africa
+TF;French Southern Territories;ATF;260;NA
+TG;Togo;TGO;768;Sub-Saharan Africa
+TH;Thailand;THA;764;East Asia & Pacific
+TJ;Tajikistan;TJK;762;Europe & Central Asia
+TK;Tokelau ;TKL;772;NA
+TL;Timor-Leste;TLS;626;East Asia & Pacific
+TM;Turkmenistan;TKM;795;Europe & Central Asia
+TN;Tunisia;TUN;788;Middle East & North Africa
+TO;Tonga;TON;776;East Asia & Pacific
+TR;Turkey;TUR;792;Europe & Central Asia
+TT;Trinidad and Tobago;TTO;780;Latin America & Caribbean
+TV;Tuvalu;TUV;798;East Asia & Pacific
+TW;Taiwan, Republic of China;TWN;158;NA
+TZ;Tanzania;TZA;834;Sub-Saharan Africa
+UA;Ukraine;UKR;804;Europe & Central Asia
+UG;Uganda;UGA;800;Sub-Saharan Africa
+UM;US Minor Outlying Islands;UMI;581;NA
+US;United States;USA;840;North America
+UY;Uruguay;URY;858;Latin America & Caribbean
+UZ;Uzbekistan;UZB;860;Europe & Central Asia
+VA;Holy See (Vatican City State);VAT;336;NA
+VC;St. Vincent and the Grenadines;VCT;670;Latin America & Caribbean
+VE;Venezuela, RB;VEN;862;Latin America & Caribbean
+VG;British Virgin Islands;VGB;92;Latin America & Caribbean
+VI;Virgin Islands (U.S.);VIR;850;Latin America & Caribbean
+VN;Vietnam;VNM;704;East Asia & Pacific
+VU;Vanuatu;VUT;548;East Asia & Pacific
+WF;Wallis and Futuna Islands ;WLF;876;NA
+WS;Samoa;WSM;882;East Asia & Pacific
+YE;Yemen, Rep.;YEM;887;Middle East & North Africa
+YT;Mayotte;MYT;175;NA
+ZA;South Africa;ZAF;710;Sub-Saharan Africa
+ZM;Zambia;ZMB;894;Sub-Saharan Africa
+ZW;Zimbabwe;ZWE;716;Sub-Saharan Africa
