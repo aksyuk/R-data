@@ -4,7 +4,7 @@
 # Установить кодировку в RStudio: Tools -> Global Options -> General, 
 #  Default text encoding: UTF-8
 
-library('jsonlite')            # чтение формата JSON
+library('RJSONIO')             # чтение формата JSON
 library('data.table')          # работа с объектами 'data.table'
 library('dplyr')               # функции для выборок из таблиц
 
@@ -12,20 +12,23 @@ library('dplyr')               # функции для выборок из та�
 
 # первый и последний год
 frstYear <- 2010
-lastYear <- 2018
+lastYear <- 2019
 
 # Загрузка данных с помощью API ================================================
 
 # адрес справочника по странам UN COMTRADE
 fileURL <- "http://comtrade.un.org/data/cache/partnerAreas.json"
 # загружаем данные из формата JSON
-reporters <- fromJSON(file = fileURL) ### ОШИБКА ПОД LINUX
+download.file(fileURL, 'tmp_data.json')
+reporters <- RJSONIO::fromJSON('tmp_data.json')
 # соединяем элементы списка построчно
-reporters <- sapply(reporters$results, rbind)
+reporters <- t(sapply(reporters$results, rbind))
 # превращаем во фрейм
 reporters <- as.data.frame(reporters)
 names(reporters) <- c('State.Code', 'State.Name.En')
 write.csv(reporters, 'reporters.csv', row.names = F)
+# удаляем временный файл .json
+file.remove('tmp_data.json')
 
 # функция, реализующая API (источник: UN COMTRADE)
 source("https://raw.githubusercontent.com/aksyuk/R-data/master/API/comtrade_API.R")
@@ -33,18 +36,19 @@ source("https://raw.githubusercontent.com/aksyuk/R-data/master/API/comtrade_API.
 # загрузка данных и сохранение файлов в цикле
 for (i in frstYear:lastYear) {
     Sys.sleep(5)
-    s1 <- get.Comtrade(r = 'all', p = "643", ps = as.character(i), freq="M",
+    s1 <- get.Comtrade(r = 'all', p = "643", ps = as.character(i), freq = "M",
                        rg = '1', cc = '040510',
-                       fmt="csv")
+                       fmt = "csv")
     file.name <- paste('comtrade_', i, '.csv', sep = '')
     write.csv(s1$data, file.name, row.names = F)
     # вывести сообщение в консоль
-    print(paste('Данные за', i, 'год сохранены в файл', file.name))
+    message(paste('Данные за', i, 'год сохранены в файл', file.name))
     # сделать запись в лог
     write(paste('Файл', paste('comtrade_', i, '.csv', sep = ''), 
                 'загружен', Sys.time()), 
           file = 'download.log', append = T)
 }
+
 
 # Очистка и трансформация данных -----------------------------------------------
 
@@ -66,7 +70,7 @@ for (i in frstYear:lastYear) {
         # если это не первый файл, добавляем строки в конец таблицы
         DT <- rbind(DT, df)
     }
-    print(paste('Файл ', file.name, ' прочитан.'))  # сообщение в консоль
+    message(paste('Файл ', file.name, ' прочитан.'))  # сообщение в консоль
 }
 DT <- data.table(DT)           # переводим в формат data.table
 # убираем временные переменные
